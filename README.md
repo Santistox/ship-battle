@@ -1,6 +1,6 @@
 # Ship Battle 2021
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Release version](https://img.shields.io/badge/release-v1.0.0--alpha1-blue)]()
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) ![Release version](https://img.shields.io/badge/release-v1.0.0--alpha1-blue)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
@@ -12,7 +12,7 @@
 
 ## Скриншоты из игры
 
-![ScreenShot](screenshot.png) 
+![ScreenShot](screenshots/screenshot.png)
 
 ## Использование библиотек
 
@@ -26,12 +26,12 @@
 
 [MIT License](LICENSE)
 
-* __[Aleksandr Gerasimov](https://github.com/Santistox)__
+- __[Aleksandr Gerasimov](https://github.com/Santistox)__
 
     @Santistox is the current maintainer of the code and has written much of the
     current code base, including a complete refactor of the core for stable version.
 
-    - Source code
-    - Design
-    - Refractoring
-    - Testing
+  - Source code
+  - Design
+  - Refractoring
+  - Testing
