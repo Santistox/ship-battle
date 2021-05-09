@@ -14,6 +14,25 @@
 
 ![ScreenShot](screenshots/main_menu.png)
 
+## Запуск игры
+
+Игра разрабатывается на MacOS 11.3, тестировалась:
+
+- MacOS 11.3.1
+- Linux Ubuntu 20.04.2.0 LTS
+- Linux Mint 20.1 Ulyssa
+
+### Стабильная Альфа версия MacOS/Linux
+
+1. Загрузка через `curl`
+
+        curl -LJO https://github.com/Santistox/ship-battle/archive/refs/tags/v1.0.0-alpha.zip
+
+### Тестовая версия MacOS/Linux
+
+1. Загрузка с помощью `git`
+
+        git clone https://github.com/Santistox/onlineshop.git
 
 ## Использование библиотек
 
