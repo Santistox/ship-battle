@@ -12,7 +12,8 @@
 
 ## Скриншоты из игры
 
-![ScreenShot](screenshots/screenshot.png)
+![ScreenShot](screenshots/main_menu.png)
+
 
 ## Использование библиотек
 
